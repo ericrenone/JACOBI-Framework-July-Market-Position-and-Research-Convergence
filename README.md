@@ -2,9 +2,9 @@
 
 **Strategic Assessment of the Twisted Hessian Elliptic Curve Architecture in Information Geometry, Hamiltonian Dynamics, and Quantum Mechanics**
 
-* https://github.com/ericrenone/JACOBI
+**https://github.com/ericrenone/JACOBI**
 
-* <img width="2710" height="848" alt="Screenshot 2026-07-28 024848" src="https://github.com/user-attachments/assets/e2cab056-4948-4123-b86d-58616473c107" />
+**<img width="2710" height="848" alt="Screenshot 2026-07-28 024848" src="https://github.com/user-attachments/assets/e2cab056-4948-4123-b86d-58616473c107" />**
 
 
 ERI Labs · Eric Ren · Jersey City, New Jersey  
